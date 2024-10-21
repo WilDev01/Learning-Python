@@ -1,19 +1,27 @@
-# Declarar variables en python es tan sensillo como hacer lo siguiente
+# Declarar variables en python es tan sencillo como hacer lo siguiente
+# Declaring variables in Python is as simple as doing the following
 numero = 0 
 
 # Tipos de datos
+# Data types
 
 # En python no es precisamente necesario definir el tipo de datos de las variables
-# Por lo que el las toma por default ejemplo si declaro un texto por defecto tomara como tipo str
+# Por lo que él las toma por default ejemplo si declaro un texto por defecto tomará como tipo str
+# In Python, it is not strictly necessary to define the data type of variables,
+# so it takes them by default. For example, if I declare a text, it will default to type str.
 
 texto = "hola mundo"
 print(type(texto))
 
-#Tipos de datos son los siguientes
+# Tipos de datos son los siguientes
+# The data types are as follows
 
 # Tipos de datos en Python
+# Data types in Python
 
 # Tipos de datos de texto
+# Text data types
+
 
 # Str
 datos = "Hola"
