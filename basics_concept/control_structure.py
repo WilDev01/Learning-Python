@@ -37,3 +37,11 @@ if "Hola" == "hola":
     print("Hola mundo!")
 else:
     print("hola mundo false")
+
+
+if 1 == 1:
+    print("Your number is one")
+elif 1 == 2: 
+    print("Your number is two")
+else:
+    print("Error")
